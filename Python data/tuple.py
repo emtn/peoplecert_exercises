@@ -3,7 +3,7 @@ new_tuple = tuplex[:2] + tuplex[3:]
 print( tuplex, new_tuple)
 
 
-
+# nice testing with git
 
 tuple1=('a','b','c',)
 a = ('d')
